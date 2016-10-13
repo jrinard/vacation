@@ -1,0 +1,16 @@
+footer {
+  padding-bottom: 15px;
+}
+
+.panel {
+  width:250px;
+}
+ img {
+   width:500px;
+ }
+
+ .jumbotron {
+   background-image: url("../images/banner.jpg");
+   background-size: 100%;
+   text-shadow: 1px 1px 5px #fff;
+ }
