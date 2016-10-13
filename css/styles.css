@@ -7,10 +7,16 @@ footer {
 }
  img {
    width:500px;
+   margin: 1%;
  }
 
  .jumbotron {
    background-image: url("../images/banner.jpg");
    background-size: 100%;
    text-shadow: 1px 1px 5px #fff;
+ }
+ .well {
+   height: 220px;
+   margin: 2% 0px;
+
  }
